@@ -1,0 +1,2 @@
+collect weather data for regions in kenya and analyze the weather patterns using python.
+The goal is to derive insights into temperature trends, rainfall patterns and other weather variables across different regions. This insights will help in making informed decisions for weather-sensitive activities.
